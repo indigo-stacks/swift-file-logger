@@ -16,7 +16,7 @@ Add this package to your Swift project using Swift Package Manager:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/indigo-ce/swift-file-logger.git", from: "1.0.0")
+    .package(url: "https://github.com/indigo-stacks/swift-file-logger.git", from: "1.0.0")
 ]
 ```
 
